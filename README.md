@@ -5,4 +5,6 @@ Just **me** _learning_ to `code`.
 
 ** = bold
 _ = italics
-` = monospace
+` = monospace  
+
+Here's a good [cheat sheet](https://en.wikipedia.org/wiki/Markdown)
