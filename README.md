@@ -1,4 +1,4 @@
 # PythonMVAtraining
 MSFT MVA Python Training
 
-Just me _italics_learning to 'code'
+Just **me** _learning_ to 'code'
